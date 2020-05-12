@@ -17,3 +17,7 @@ J
 src/fastFood/Restaurant.kt,8\1\81096bb3a5c8a330c45757a3bad78c2e42870c5f
 D
 src/fastFood/main.kt,0\7\07af12dea83a0122488f67058e806827094efb57
+U
+%src/fastFood/restInteraction/Order.kt,0\3\03d60375216212c87870e76c557ca4e62d382e74
+L
+src/fastFood/menu/Product.kt,6\4\647d301573eb27d2f61897bfb27d44ec6c78b9d4
