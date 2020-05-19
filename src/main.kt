@@ -1,6 +1,6 @@
 import AntColonyAlgorithm.algorithm.ant.AntColonyOptimization
-import ParticleSwarm.LolFitnessFunction
-import ParticleSwarm.Multiswarm
+import ParticleSwarm.fitness.LolFitnessFunction
+import ParticleSwarm.swarm.Multiswarm
 import java.util.*
 
 
